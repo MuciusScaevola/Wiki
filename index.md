@@ -1,5 +1,3 @@
 # Programming
-    
     ## Languages
-        
         ### [Haskell](Haskell)
