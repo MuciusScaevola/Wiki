@@ -2,4 +2,4 @@
     
     ## Languages
         
-        ### [Haskel](Haskel)
+        ### [Haskell](Haskell)
