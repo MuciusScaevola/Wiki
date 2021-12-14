@@ -155,4 +155,11 @@ mapM_       :: Monad m => (a -> m b) -> [a] -> m ()
 (=<<)       :: Monad m => (a -> m b) -> m a -> m b
 ```
 
+## Bounded
 
+```haskell
+class Bounded a where
+    minBound, maxBound :: a
+```
+
+Int, Char, Bool, (), and all tuples.
