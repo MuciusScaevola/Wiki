@@ -1,6 +1,6 @@
 # Classes
 
-    ![Classes](./images/haskell_classes.png)
+    ![Classes](images/haskell_classes.png)
     
 ## Eq
 
