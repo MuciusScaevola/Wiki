@@ -1,1 +1,5 @@
 # [Classes](Classes)
+# [Closures](Closures)
+# [Combinators](Combinator)
+# [Partial application](Partial application)
+# [Monads](Monads)
